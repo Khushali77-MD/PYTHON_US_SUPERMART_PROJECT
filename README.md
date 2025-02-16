@@ -50,7 +50,8 @@ The dataset includes three **shipping modes**:
 
 
 ### **Shipping MOode Based On  Product Category**
-![SHIP MODE ON BASE OF CATEGORY ](https://github.com/user-attachments/assets/5011b067-af3b-467b-b8de-1c2a8e78de16)
+![SHIP MODE ON BASE OF PRODUCT CATEGORY](https://github.com/user-attachments/assets/05206c66-2489-4b53-9d03-7b7b99ac5c93)
+
 
 
 ### 3. **Yearly Order Trends**
@@ -74,7 +75,8 @@ The order distribution by year:
 *This highlights that **California** has the highest number of orders.*
 
 ### 5.**Customer Segments Driving the Most Business Revenue**
-![CUSTOMER SEGMENT ](https://github.com/user-attachments/assets/99cb888c-88fa-4bcf-adb7-0a555b7daf74)
+![CUSTOMER SEGMENT](https://github.com/user-attachments/assets/129a8ade-c59d-4650-8b02-5ff1b2638f53)
+
 
 
 ## Visualizations
