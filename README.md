@@ -39,8 +39,6 @@ The dataset contains the following **order priorities**:
 ![Order Priority Distribution](https://github.com/user-attachments/assets/e6e12f2a-fcb0-43f6-a3e9-f889a77486bc)
 
 
-
-
 ### 2. **Shipping Mode Analysis**
 The dataset includes three **shipping modes**:
 
@@ -48,7 +46,12 @@ The dataset includes three **shipping modes**:
 - **Delivery Truck:** 13.61% of shipments
 - **Express Air:** 11.74% of shipments
 
-*A pie chart was used to represent the proportion of each shipping mode.*
+![SHIP MODE SPLIT](https://github.com/user-attachments/assets/2cb38803-e488-4832-a2af-39ad336de142)
+
+
+### **Shipping MOode Based On  Product Category**
+![SHIP MODE ON BASE OF CATEGORY ](https://github.com/user-attachments/assets/5011b067-af3b-467b-b8de-1c2a8e78de16)
+
 
 ### 3. **Yearly Order Trends**
 The order distribution by year:
@@ -58,7 +61,8 @@ The order distribution by year:
 - **2011:** 2,179 orders
 - **2010:** 1,952 orders
 
-*The dataset shows an increasing trend in order volume over the years.*
+![DISTRIBUTION OF OFFICE SUPPLY BY SUB CATEGORY](https://github.com/user-attachments/assets/75160dd4-c8c1-4f2f-a32d-3e7c9dde1220)
+
 
 ### 4. **Top 5 States by Order Volume**
 - **California:** 1,021 orders
@@ -69,12 +73,16 @@ The order distribution by year:
 
 *This highlights that **California** has the highest number of orders.*
 
+### 5.**Customer Segments Driving the Most Business Revenue**
+![CUSTOMER SEGMENT ](https://github.com/user-attachments/assets/99cb888c-88fa-4bcf-adb7-0a555b7daf74)
+
+
 ## Visualizations
 The project includes multiple **visualizations** to support insights, such as:
 
-- **Bar charts** for order priorities and top states
+- **Bar charts** for order priorities and top states and customer segment for most business revenue
 - **Pie charts** for shipping modes
-- **Count plots** to analyze categorical distributions
+- **Count plots** to analyze categorical distributions and shipping mode categorical analysis
 
 ## Tools & Libraries Used
 - **Python**
