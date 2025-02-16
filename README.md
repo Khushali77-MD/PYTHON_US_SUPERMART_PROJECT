@@ -36,7 +36,10 @@ The dataset contains the following **order priorities**:
 - **Critical:** 1,805 orders
 - **Not Specified:** 1,881 orders
 
-*A bar chart was plotted to visualize the distribution.*
+![Order Priority Distribution](https://github.com/user-attachments/assets/e6e12f2a-fcb0-43f6-a3e9-f889a77486bc)
+
+
+
 
 ### 2. **Shipping Mode Analysis**
 The dataset includes three **shipping modes**:
