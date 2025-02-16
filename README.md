@@ -80,7 +80,7 @@ The order distribution by year:
 ## Visualizations
 The project includes multiple **visualizations** to support insights, such as:
 
-- **Bar charts** for order priorities and top states and customer segment for most business revenue
+- **Bar charts** for order priorities and top states and customer segment for most business revenue 
 - **Pie charts** for shipping modes
 - **Count plots** to analyze categorical distributions and shipping mode categorical analysis
 
